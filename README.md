@@ -56,7 +56,7 @@ My approach brings together **business objectives, structured project delivery, 
 >
 > **Operational Improvement**
 
-# 📌 Explore My Portfolio
+## 📌 Explore My Portfolio
 
 My GitHub profile provides an overview of my experience and technical capabilities. The repositories below provide deeper evidence of my work.
 
