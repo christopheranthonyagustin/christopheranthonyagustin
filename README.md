@@ -55,3 +55,18 @@ My goal is to bring together **business objectives, structured project delivery,
 > ↓
 >
 > **Operational Improvement**
+
+---
+
+## 🎯 Core Capabilities
+
+| Area | Capabilities |
+|------|--------------|
+| 📋 **Project & Technical Delivery** | Technical project management, project planning, scope management, requirements analysis, stakeholder coordination, vendor management, risk & issue management, UAT, release & go-live coordination |
+| 🏢 **Enterprise Applications** | OMS, WMS, Fleet Management, Job Dispatch Systems, Healthcare Information Systems, Shopify, enterprise application delivery |
+| ☁️ **Cloud & Infrastructure** | Google Cloud Platform, Firebase, Cloud SQL, Windows Server, Active Directory, IIS, infrastructure operations, disaster recovery, business continuity |
+| 🔗 **Systems Integration** | REST APIs, webhooks, EDI, file-based integration, third-party APIs, Shopify integration, Lark Base, MQTT, JSON, XML |
+| 💻 **Software Engineering** | ASP.NET, .NET Framework, .NET Core, C#, Flutter, Android, SQL Server, MySQL, Python |
+| 📊 **Governance & Operational Delivery** | KPI tracking, status reporting, project governance, documentation, change management, production support, operational improvement |
+| 🔄 **Delivery Methodologies** | Agile, Scrum, Waterfall, SDLC, hybrid delivery |
+| 🛒 **E-Commerce & Shopify** | Shopify store development and technical consulting, theme customization, Liquid/CSS/JavaScript, e-commerce integrations, order and fulfillment workflows, third-party APIs, logistics integration, and e-commerce operations |
