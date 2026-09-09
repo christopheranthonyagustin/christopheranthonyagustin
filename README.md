@@ -612,13 +612,14 @@ Continuous Improvement
 
 The projects provide evidence across different aspects of that lifecycle:
 
-| Project | PM | PO | Delivery Approach | BA | Technical | Integration | Cloud | Compliance |
-|---------|:--:|:--:|:-----------------:|:--:|:---------:|:-----------:|:-----:|:----------:|
-| **AceCom OMS / WMS** | ✅ | ✅ | Agile / Scrum | ✅ | ✅ | ✅ | | ✅ PDPA |
+| Project | PM | PO | Delivery Approach | BA | Technical | Integration | Environment | Compliance |
+|---------|:--:|:--:|:-----------------:|:--:|:---------:|:-----------:|:----------:|:----------:|
+| **AceCom OMS** | ✅ | ✅ | Agile / Scrum | ✅ | ✅ | ✅ | Cloud | ✅ PDPA |
+| **AceCom WMS** | ✅ | | Agile / Scrum | ✅ | ✅ | ✅ | LAN | |
 | **Fleet & Transport** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | | |
-| **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **LogiVis** | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | |
-| **WLocate / BUC / Comfort / AceCom Infra** | ✅ | | | | ✅ | | ✅ | |
+| **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | Cloud / IoT | ✅ |
+| **LogiVis** | ✅ | ✅ | | ✅ | ✅ | ✅ | Cloud | |
+| **WLocate / BUC / Comfort / AceCom Infra** | ✅ | | Waterfall | | ✅ | | Cloud / Infrastructure | |
 
 ---
 
