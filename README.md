@@ -109,7 +109,7 @@ and
 
 ---
 
-# 📊 Business Analysis & Operational Analytics
+## 📊 Business Analysis & Operational Analytics
 
 I use business-analysis and operational analytics practices to connect **business requirements, operational processes, technology solutions, and data** to support project delivery and business decision-making.
 
