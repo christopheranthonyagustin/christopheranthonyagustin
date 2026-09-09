@@ -357,18 +357,44 @@ My portfolio is built around **real technology projects**, showing how I work ac
 
 ### `AceCom OMS / WMS`
 
-**Enterprise Order Management & Warehouse Management**
+**End-to-End E-Commerce & Supply Chain Management Platform**
+
+The solution connected **marketplaces, centralized order management, warehouse operations, ERP, and third-party logistics (3PL)** into an integrated supply-chain workflow:
+
+```text
+Marketplaces
+      ↓
+Middleware
+(Centralized Orders)
+      ↓
+WMS
+(Warehouse Operations)
+      ↓
+ERP
+(Business & Inventory Processes)
+      ↓
+3PL
+(Fulfillment & Logistics)
+```
 
 Demonstrates:
 
 - Technical Project Management
 - Product Ownership
 - Business & Requirements Analysis
+- End-to-End Supply Chain Workflow Definition
 - Scope & Priority Management
 - Project Planning
 - Stakeholder Coordination
 - Vendor Coordination
 - Agile / Scrum Delivery
+- Marketplace Integration
+- OMS/ Middleware Integration
+- WMS Integration
+- ERP Integration
+- 3PL Integration
+- Order & Fulfillment Workflows
+- Inventory & Warehouse Processes
 - Integration Planning
 - Testing & UAT
 - Deployment & Operational Support
