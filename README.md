@@ -348,3 +348,285 @@ My enterprise application, infrastructure, integration, e-commerce, healthcare, 
 ### 🤖 AI-Assisted Delivery
 
 `AI-Assisted Analysis` • `Requirements Structuring` • `Documentation Support` • `Research & Analysis` • `Workflow Design` • `Process Automation`
+
+# 📂 Featured Portfolio
+
+My portfolio is built around **real technology projects**, showing how I work across **project management, product ownership, business analysis, technical delivery, Agile practices, systems integration, cloud infrastructure, and continuous improvement**.
+
+## 🚀 Project Management & Product Ownership
+
+### `AceCom OMS / WMS`
+
+**Enterprise Order Management & Warehouse Management**
+
+Demonstrates:
+
+- Technical Project Management
+- Product Ownership
+- Business & Requirements Analysis
+- Scope & Priority Management
+- Project Planning
+- Stakeholder Coordination
+- Vendor Coordination
+- Agile / Scrum Delivery
+- Integration Planning
+- Testing & UAT
+- Deployment & Operational Support
+
+**PM / PO Focus:** Enterprise software delivery • Product requirements • Stakeholder coordination • Agile delivery
+
+---
+
+### `Fleet & Transport Management System`
+
+**Fleet, Transport & Job Dispatch Platform**
+
+Demonstrates:
+
+- Requirements Analysis
+- Product & Workflow Definition
+- Technical Project Delivery
+- Stakeholder Coordination
+- Solution Evolution
+- Integration Planning
+- Testing & Deployment
+- Operational Improvement
+
+**PM / PO Focus:** Product / workflow definition • Business analysis • Technical delivery • Continuous improvement
+
+---
+
+### `VSynC / MEWS`
+
+**Healthcare & Medical Device Technology**
+
+Demonstrates:
+
+- Senior Technical Project Management
+- Requirements Coordination
+- Cross-Functional Delivery
+- Hardware & Software Coordination
+- Risk & Quality Management
+- Software Lifecycle Management
+- Testing & Validation
+- Stakeholder Coordination
+- Regulated Software Delivery
+- Vendor Coordination
+- Release Readiness
+
+**PM Focus:** Regulated technology • Cross-functional delivery • Risk • Quality • Hardware + software
+
+---
+
+### `LogiVis`
+
+**Order & Delivery Tracking Platform**
+
+Demonstrates:
+
+- Business Problem Analysis
+- Requirements Definition
+- Product / Solution Design
+- Workflow Definition
+- Shopify Integration
+- Lark Base Integration
+- API & Webhook Integration
+- Automation
+- Technical Architecture
+- Cloud Deployment
+- Operational Improvement
+- AI-Assisted Solution Concepts
+
+**PM / PO Focus:** Product thinking • Requirements • Technical solution design • Integration • Automation
+
+---
+
+### `Robam Shopify`
+
+**E-Commerce Website Development**
+
+Demonstrates:
+
+- Client Requirements
+- Scope & Deliverables
+- Project Planning
+- Milestone Management
+- Technical Consulting
+- Shopify Development
+- E-Commerce Integration
+- UAT
+- Client Coordination
+- Go-Live
+- Warranty & Minor Enhancements
+
+**PM Focus:** Client delivery • Scope • Milestones • Technical consulting • UAT • Go-Live
+
+---
+
+## 🔗 Systems Integration Projects
+
+My integration projects demonstrate how I translate business and operational requirements into **technical integration solutions, coordinated implementation, testing, and operational workflows**.
+
+### `Shopify / Lark / Logistics Integrations`
+
+- Requirements Analysis
+- API Evaluation
+- Integration Architecture
+- Webhooks
+- Authentication
+- Data Flow
+- Technical Coordination
+- Integration Testing
+- Troubleshooting
+- Operational Validation
+
+### `API & Webhook Integrations`
+
+- API Requirements
+- API Evaluation
+- Technical Coordination
+- Dependency Management
+- Integration Testing
+- Troubleshooting
+- Solution Delivery
+
+### `EDI & File-Based Integrations`
+
+- Requirements Analysis
+- Data Flow Definition
+- Integration Design
+- Technical Coordination
+- Validation
+- Troubleshooting
+- Delivery
+
+---
+
+## ☁️ Cloud & Infrastructure Projects
+
+My infrastructure projects demonstrate the technical foundation behind enterprise application delivery.
+
+### `WLocate`
+
+**Enterprise Infrastructure & Cloud Foundation**
+
+- Infrastructure Migration Planning
+- Solution Planning
+- SDLC Environment Management
+- High-Availability Planning
+- Disaster Recovery Planning
+- Implementation Coordination
+- Operational Governance
+
+### `BUCLocate`
+
+**Azure Fleet Management Platform**
+
+- Cloud Platform Delivery
+- Infrastructure Planning
+- System Migration Coordination
+- Environment Management
+- Technical Dependency Management
+- Integration Coordination
+- Operational Support
+
+### `Comfort Ambulance`
+
+**Job Dispatch System**
+
+- Enterprise Solution Deployment
+- Customer Environment Planning
+- Workflow Implementation
+- Deployment Coordination
+- UAT Management
+- Production Readiness
+- Go-Live Support
+
+### `AceCom IT Infrastructure`
+
+**Enterprise IT Infrastructure Operations & Governance**
+
+- Infrastructure Operations Planning
+- Disaster Recovery Planning
+- IT Governance
+- Vendor Management
+- Environment Coordination
+- Operational Continuity
+- Technical Coordination
+
+---
+
+# 🧭 How My Portfolio Fits Together
+
+My projects represent different technology domains, but they follow the same delivery lifecycle:
+
+```text
+Business Need
+      ↓
+Requirements & Discovery
+      ↓
+Scope & Prioritization
+      ↓
+Project Planning
+      ↓
+Solution Design
+      ↓
+Agile / Hybrid Delivery
+      ↓
+Development & Integration
+      ↓
+Testing & UAT
+      ↓
+Deployment & Go-Live
+      ↓
+Operations & Support
+      ↓
+Continuous Improvement
+```
+
+The projects provide evidence across different aspects of that lifecycle:
+
+| Project | PM | PO | Agile / Scrum | BA | Technical | Integration | Cloud | Compliance |
+|----------|:--:|:--:|:-------------:|:--:|:---------:|:-----------:|:-----:|:----------:|
+| **AceCom OMS / WMS** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | |
+| **Fleet & Transport** | ✅ | ✅ | | ✅ | ✅ | ✅ | | |
+| **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **LogiVis** | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | |
+| **Robam Shopify** | ✅ | | | ✅ | ✅ | ✅ | | |
+| **WLocate / BUC / Comfort / AceCom Infra** | ✅ | | | | ✅ | | ✅ | |
+
+---
+
+## 🎯 What My Portfolio Demonstrates
+
+### As a Project Manager
+
+**Planning • Scope • Estimation • Risks • Dependencies • Stakeholders • Vendors • UAT • Go-Live • Governance**
+
+### As a Product Owner
+
+**Business Needs • Requirements • Workflows • Prioritization • Solution Definition • Product Evolution**
+
+### As a Technical PM
+
+**Architecture • APIs • Integrations • Infrastructure • Security • Cloud • Development • Testing • Deployment**
+
+### As an Agile Practitioner
+
+**Iterative Delivery • Requirements Refinement • Development • Testing • Feedback • Continuous Improvement**
+
+### As a Technology Professional
+
+**Enterprise Applications • Software Engineering • Cloud • Infrastructure • IoT • E-Commerce • Integration • Automation • AI**
+
+---
+
+## 💡 Portfolio Philosophy
+
+My portfolio is based on **real technology projects and delivery experience**, rather than artificial project scenarios.
+
+Each project demonstrates a different aspect of my experience — from **enterprise project management and product ownership to business analysis, technical architecture, systems integration, cloud infrastructure, regulated software delivery, e-commerce, automation, and AI-enabled solutions**.
+
+The objective is to show not only **what technology was built**, but also how **business needs were translated into requirements, solutions were planned and delivered, stakeholders were coordinated, and systems were brought into operation and improved**.
+
+---
