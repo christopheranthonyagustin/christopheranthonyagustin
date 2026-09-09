@@ -612,17 +612,17 @@ Continuous Improvement
 
 The projects provide evidence across different aspects of that lifecycle:
 
-| Project | PM | PO | Delivery Approach | BA | Technical | Integration | Environment | IoT / GPS | Data / Analytics | Compliance |
-|---------|:--:|:--:|:-----------------:|:--:|:---------:|:-----------:|:----------:|:---------:|:---------------:|:----------:|
+| Project | PM | PO | Delivery Approach | BA | Technical | Integration | Environment | IoT / GPS | BI / Analytics | Compliance |
+|---------|:--:|:--:|:-----------------:|:--:|:---------:|:-----------:|:----------:|:---------:|:-------------:|:----------:|
 | **AceCom OMS** | ✅ | ✅ | Agile / Scrum | ✅ | ✅ | ✅ | Cloud | | | ✅ |
 | **AceCom WMS** | ✅ | | Agile / Scrum | ✅ | ✅ | ✅ | LAN | | | |
-| **Fleet & Transport** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | ✅ | | |
+| **Fleet & Transport** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | ✅ | ✅ | |
 | **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | Cloud | ✅ | | ✅ |
 | **LogiVis** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | | | |
 | **Data Warehousing & Analytics** | | | | ✅ | ✅ | ✅ | LAN / On-Premises | | ✅ | ✅ |
 | **NETS Click / SmartMall** | | | Scrum | | | ✅ | Cloud | | | |
 | **Cloud-Based Field Service Platform** | | | | | | ✅ | Cloud | | | |
-| **ADAS Monitoring System** | | | Waterfall | | | | LAN | | | |
+| **ADAS Monitoring System** | | | Waterfall | | ✅ | ✅ | LAN | | | |
 | **WLocate / BUC / Comfort / AceCom Infra** | ✅ | | Waterfall | | ✅ | | Cloud / Infrastructure | | | |
 
 ---
