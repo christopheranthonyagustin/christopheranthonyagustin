@@ -56,6 +56,28 @@ My approach brings together **business objectives, structured project delivery, 
 >
 > **Operational Improvement**
 
+# 📌 Explore My Portfolio
+
+My GitHub profile provides an overview of my experience and technical capabilities. The repositories below provide deeper evidence of my work.
+
+### 📂 Project Portfolio
+
+Explore my **real-world technology projects** across enterprise applications, systems integration, cloud & infrastructure, IoT, e-commerce, BI, and AI-enabled solutions.
+
+👉 **[View Project Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects)**
+
+### 📋 Project Manager Portfolio
+
+Explore my **project management experience and delivery artifacts**, including project planning, requirements, governance, risk and issue management, UAT, implementation, and project documentation.
+
+👉 **[View Project Manager Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/project-manager)**
+
+### 🎓 Certifications
+
+Explore my **professional certifications, training, and continuing professional development** across project management, technology, cloud, data, and related areas.
+
+👉 **[View Certifications →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Certifications)**
+
 ---
 
 ## 🎯 Core Capabilities
@@ -698,24 +720,3 @@ Explore my repositories for **real-world project experience, technical implement
 
 ⭐ **Thanks for visiting my portfolio.**
 
-# 📌 Explore My Portfolio
-
-My GitHub profile provides an overview of my experience and technical capabilities. The repositories below provide deeper evidence of my work.
-
-### 📂 Project Portfolio
-
-Explore my **real-world technology projects** across enterprise applications, systems integration, cloud & infrastructure, IoT, e-commerce, BI, and AI-enabled solutions.
-
-👉 **[View Project Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects)**
-
-### 📋 Project Manager Portfolio
-
-Explore my **project management experience and delivery artifacts**, including project planning, requirements, governance, risk and issue management, UAT, implementation, and project documentation.
-
-👉 **[View Project Manager Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/project-manager)**
-
-### 🎓 Certifications
-
-Explore my **professional certifications, training, and continuing professional development** across project management, technology, cloud, data, and related areas.
-
-👉 **[View Certifications →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Certifications)**
