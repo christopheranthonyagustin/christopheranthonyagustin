@@ -619,9 +619,9 @@ The projects provide evidence across different aspects of that lifecycle:
 | **Fleet & Transport** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | ✅ | ✅ | |
 | **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | Cloud | ✅ | | ✅ |
 | **LogiVis** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | | | |
-| **Data Warehousing & Analytics** | | | | ✅ | ✅ | ✅ | LAN / On-Premises | | ✅ | ✅ |
+| **Data Warehousing & Analytics** | | | Scrum | ✅ | ✅ | ✅ | LAN / On-Premises | | ✅ | ✅ |
 | **NETS Click / SmartMall** | | | Scrum | | ✅ | ✅ | Cloud | | | |
-| **Cloud-Based Field Service Platform** | | | | | ✅ | ✅ | Cloud | | | |
+| **Cloud-Based Field Service Platform** | | | Waterfall | | ✅ | ✅ | Cloud | | | |
 | **ADAS Monitoring System** | | | Waterfall | | ✅ | ✅ | LAN / On-Premises | | | |
 | **WLocate / BUC / Comfort / AceCom Infra** | ✅ | | Waterfall | | ✅ | | Cloud / Infrastructure | | | |
 
