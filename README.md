@@ -706,13 +706,13 @@ My GitHub profile provides an overview of my experience and technical capabiliti
 
 Explore my **real-world technology projects** across enterprise applications, systems integration, cloud & infrastructure, IoT, e-commerce, BI, and AI-enabled solutions.
 
-👉 **[View Project Portfolio →](https://github.com/christopheranthonyagustin/portfolio)**
+👉 **[View Project Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects)**
 
 ### 📋 Project Manager Portfolio
 
 Explore my **project management experience and delivery artifacts**, including project planning, requirements, governance, risk and issue management, UAT, implementation, and project documentation.
 
-👉 **[View Project Manager Portfolio →](https://github.com/christopheranthonyagustin/project-manager)**
+👉 **[View Project Manager Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/project-manager)**
 
 ### 🎓 Certifications
 
