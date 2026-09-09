@@ -63,10 +63,111 @@ My goal is to bring together **business objectives, structured project delivery,
 | Area | Capabilities |
 |------|--------------|
 | 📋 **Project & Technical Delivery** | Technical project management, project planning, scope management, requirements analysis, stakeholder coordination, vendor management, risk & issue management, UAT, release & go-live coordination |
-| 🏢 **Enterprise Applications** | OMS, WMS, Fleet Management, Job Dispatch Systems, Healthcare Information Systems, Shopify, enterprise application delivery |
+| 🏢 **Enterprise Applications** | OMS, WMS, Fleet Management, Job Dispatch Systems, Healthcare Information Systems, Enterprise application delivery |
 | ☁️ **Cloud & Infrastructure** | Google Cloud Platform, Firebase, Cloud SQL, Windows Server, Active Directory, IIS, infrastructure operations, disaster recovery, business continuity |
 | 🔗 **Systems Integration** | REST APIs, webhooks, EDI, file-based integration, third-party APIs, Shopify integration, Lark Base, MQTT, JSON, XML |
 | 💻 **Software Engineering** | ASP.NET, .NET Framework, .NET Core, C#, Flutter, Android, SQL Server, MySQL, Python |
 | 📊 **Governance & Operational Delivery** | KPI tracking, status reporting, project governance, documentation, change management, production support, operational improvement |
 | 🔄 **Delivery Methodologies** | Agile, Scrum, Waterfall, SDLC, hybrid delivery |
 | 🛒 **E-Commerce & Shopify** | Shopify store development and technical consulting, theme customization, Liquid/CSS/JavaScript, e-commerce integrations, order and fulfillment workflows, third-party APIs, logistics integration, and e-commerce operations |
+| 🌐 **IoT & Connected Systems** | IoT solution delivery, connected devices, hardware-software integration, firmware coordination, sensor data, device connectivity, cloud integration, monitoring, testing and validation |
+
+## 📋 Technical Project Management & Delivery
+
+I use project-management practices to translate **business objectives and technical requirements into structured plans, coordinated delivery, and practical technology outcomes**.
+
+### Project Management Capabilities
+
+- Project Initiation & Planning
+- Requirements Analysis
+- Scope & Priority Management
+- Project Estimation & Cost Planning
+- Timeline & Milestone Management
+- Stakeholder Management
+- Vendor & Third-Party Coordination
+- Risk, Issue & Dependency Management
+- Resource & Capacity Planning
+- UAT Planning & Coordination
+- Release & Go-Live Management
+- Change Management
+- KPI & Status Reporting
+- Governance & Documentation
+- Production Support & Operational Improvement
+- Agile / Scrum / Waterfall / Hybrid Delivery
+
+### 💡 Technical Project Management Perspective
+
+My software engineering, enterprise applications, cloud, infrastructure, e-commerce, and systems integration experience gives me hands-on understanding of the technologies and workflows involved in technology delivery.
+
+This allows me to work across both:
+
+> **What business problem are we solving, what needs to be delivered, and how do we organize the project to achieve it?**
+
+and
+
+> **What technical solution, architecture, integrations, and operational requirements are needed to deliver and support it?**
+
+---
+
+# 📊 Business Analysis & Operational Analytics
+
+I use business-analysis and operational analytics practices to connect **business requirements, operational processes, technology solutions, and data** to support project delivery and business decision-making.
+
+My experience includes analyzing business and operational requirements, understanding workflows, working with operational data, developing reporting solutions, and translating findings into practical technology and process improvements.
+
+## 📋 Business Analysis Capabilities
+
+- Requirements Analysis
+- Business Requirements Gathering
+- Functional Requirements
+- Stakeholder Analysis
+- Process Mapping
+- Workflow Analysis
+- Process Improvement
+- Root-Cause Analysis
+- Solution Design
+- Technical Requirements
+- Business Reporting
+- Operational Analytics
+- Data-Driven Decision Making
+- Stakeholder & Executive Collaboration
+
+## 📊 Operational Analytics Capabilities
+
+- Operational Reporting
+- KPI Reporting
+- Data Analysis
+- SQL Analysis
+- Power BI
+- Python
+- Data Extraction
+- Marketplace & E-Commerce Analytics
+- Business Performance Analysis
+
+### 🛠️ Analytics Toolkit
+
+`SQL` • `Python` • `Power BI`
+
+---
+
+## 🔎 Business Analysis Workflow
+
+```text
+Business Problem
+      ↓
+Stakeholder Needs
+      ↓
+Requirements & Process Analysis
+      ↓
+Data / Workflow Analysis
+      ↓
+Solution Definition
+      ↓
+Implementation Support
+      ↓
+Reporting & Performance Review
+      ↓
+Process Improvement
+```
+
+My technical background allows me to connect business and operational requirements with **applications, integrations, data, infrastructure, and technical solutions**.
