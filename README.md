@@ -619,7 +619,7 @@ The projects provide evidence across different aspects of that lifecycle:
 | **Fleet & Transport** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | ✅ | ✅ | |
 | **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | Cloud | ✅ | | ✅ |
 | **LogiVis** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | | | |
-| **Data Warehousing & Analytics** | | | Scrum | ✅ | ✅ | ✅ | LAN / On-Premises | | ✅ | ✅ |
+| **Data Warehousing & Analytics** | | ✅ | Scrum | ✅ | ✅ | ✅ | LAN / On-Premises | | ✅ | ✅ |
 | **NETS Click / SmartMall** | | | Scrum | | ✅ | ✅ | Cloud | | | |
 | **Cloud-Based Field Service Platform** | | | Waterfall | | ✅ | ✅ | Cloud | | | |
 | **ADAS Monitoring System** | | | Waterfall | | ✅ | ✅ | LAN / On-Premises | | | |
@@ -660,3 +660,62 @@ Each project demonstrates a different aspect of my experience — from **enterpr
 The objective is to show not only **what technology was built**, but also how **business needs were translated into requirements, solutions were planned and delivered, stakeholders were coordinated, and systems were brought into operation and improved**.
 
 ---
+
+# 🤝 What I Bring
+
+## Business Understanding + Project Leadership + Technical Depth
+
+Whether I'm:
+
+- Translating business needs into technical requirements
+- Defining and managing project scope
+- Analyzing business processes and operational workflows
+- Coordinating technical teams, stakeholders, and vendors
+- Evaluating technical solutions and integrations
+- Planning delivery, milestones, testing, and go-live
+- Working across enterprise applications and cloud infrastructure
+- Managing risks, issues, dependencies, and changes
+- Supporting software, hardware, IoT, and connected systems
+- Using data and analytics to understand operations and performance
+- Applying AI to support analysis, documentation, and delivery
+- Troubleshooting technical and operational problems
+- Improving systems and processes after implementation
+
+I bring together **business understanding, structured project management, technical knowledge, and hands-on delivery experience** to move technology initiatives from problem to solution.
+
+> **Understand the business problem.  
+> Define what needs to be delivered.  
+> Coordinate the right people and technology.  
+> Deliver, validate, and improve the solution.**
+
+---
+
+# 📫 Let's Connect
+
+I'm open to opportunities in **Technical Project Management, IT Project Management, Product Management, Technical Program Management, Business Analysis, and technology delivery**.
+
+Explore my repositories for **real-world project experience, technical implementations, requirements and project documentation, architecture, systems integration, cloud infrastructure, BI and analytics, IoT, and AI-enabled solutions**.
+
+⭐ **Thanks for visiting my portfolio.**
+
+# 📌 Explore My Portfolio
+
+My GitHub profile provides an overview of my experience and technical capabilities. The repositories below provide deeper evidence of my work.
+
+### 📂 Project Portfolio
+
+Explore my **real-world technology projects** across enterprise applications, systems integration, cloud & infrastructure, IoT, e-commerce, BI, and AI-enabled solutions.
+
+👉 **[View Project Portfolio →](https://github.com/christopheranthonyagustin/portfolio)**
+
+### 📋 Project Manager Portfolio
+
+Explore my **project management experience and delivery artifacts**, including project planning, requirements, governance, risk and issue management, UAT, implementation, and project documentation.
+
+👉 **[View Project Manager Portfolio →](https://github.com/christopheranthonyagustin/project-manager-portfolio)**
+
+### 🎓 Certifications
+
+Explore my **professional certifications, training, and continuing professional development** across project management, technology, cloud, data, and related areas.
+
+👉 **[View Certifications →](https://github.com/christopheranthonyagustin/certifications)**
