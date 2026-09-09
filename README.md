@@ -612,14 +612,18 @@ Continuous Improvement
 
 The projects provide evidence across different aspects of that lifecycle:
 
-| Project | PM | PO | Delivery Approach | BA | Technical | Integration | Environment | Compliance |
-|---------|:--:|:--:|:-----------------:|:--:|:---------:|:-----------:|:----------:|:----------:|
-| **AceCom OMS** | ✅ | ✅ | Agile / Scrum | ✅ | ✅ | ✅ | Cloud | ✅ |
-| **AceCom WMS** | ✅ | | Agile / Scrum | ✅ | ✅ | ✅ | LAN | |
-| **Fleet & Transport** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | IoT / GPS | |
-| **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | Cloud / IoT | ✅ |
-| **LogiVis** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | |
-| **WLocate / BUC / Comfort / AceCom Infra** | ✅ | | Waterfall | | ✅ | | Cloud / Infrastructure | |
+| Project | PM | PO | Delivery Approach | BA | Technical | Integration | Environment | IoT / GPS | Data / Analytics | Compliance |
+|---------|:--:|:--:|:-----------------:|:--:|:---------:|:-----------:|:----------:|:---------:|:---------------:|:----------:|
+| **AceCom OMS** | ✅ | ✅ | Agile / Scrum | ✅ | ✅ | ✅ | Cloud | | | |
+| **AceCom WMS** | ✅ | | Agile / Scrum | ✅ | ✅ | ✅ | LAN | | | |
+| **Fleet & Transport** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | | ✅ | | |
+| **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | Cloud | ✅ | | ✅ |
+| **LogiVis** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | Cloud | | | |
+| **Data Warehousing & Analytics** | | | | ✅ | ✅ | ✅ | | | ✅ | |
+| **NETS Click / SmartMall** | ✅ | | | ✅ | ✅ | ✅ | | | | |
+| **Cloud-Based Field Service Platform** | | | | | ✅ | ✅ | Cloud | | | |
+| **ADAS Monitoring System** | | | | | ✅ | ✅ | | ✅ | | |
+| **WLocate / BUC / Comfort / AceCom Infra** | ✅ | | Waterfall | | ✅ | | Cloud / Infrastructure | | | |
 
 ---
 
