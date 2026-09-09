@@ -712,10 +712,10 @@ Explore my **real-world technology projects** across enterprise applications, sy
 
 Explore my **project management experience and delivery artifacts**, including project planning, requirements, governance, risk and issue management, UAT, implementation, and project documentation.
 
-👉 **[View Project Manager Portfolio →](https://github.com/christopheranthonyagustin/project-manager-portfolio)**
+👉 **[View Project Manager Portfolio →](https://github.com/christopheranthonyagustin/project-manager)**
 
 ### 🎓 Certifications
 
 Explore my **professional certifications, training, and continuing professional development** across project management, technology, cloud, data, and related areas.
 
-👉 **[View Certifications →](https://github.com/christopheranthonyagustin/certifications)**
+👉 **[View Certifications →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Certifications)**
