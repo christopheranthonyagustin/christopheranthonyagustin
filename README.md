@@ -612,13 +612,12 @@ Continuous Improvement
 
 The projects provide evidence across different aspects of that lifecycle:
 
-| Project | PM | PO | Agile / Scrum | BA | Technical | Integration | Cloud | Compliance |
-|----------|:--:|:--:|:-------------:|:--:|:---------:|:-----------:|:-----:|:----------:|
-| **AceCom OMS / WMS** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | |
-| **Fleet & Transport** | ✅ | ✅ | | ✅ | ✅ | ✅ | | |
+| Project | PM | PO | Delivery Approach | BA | Technical | Integration | Cloud | Compliance |
+|---------|:--:|:--:|:-----------------:|:--:|:---------:|:-----------:|:-----:|:----------:|
+| **AceCom OMS / WMS** | ✅ | ✅ | Agile / Scrum | ✅ | ✅ | ✅ | | ✅ PDPA |
+| **Fleet & Transport** | ✅ | ✅ | Waterfall | ✅ | ✅ | ✅ | | |
 | **VSynC / MEWS** | ✅ | | Hybrid | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **LogiVis** | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | |
-| **Robam Shopify** | ✅ | | | ✅ | ✅ | ✅ | | |
 | **WLocate / BUC / Comfort / AceCom Infra** | ✅ | | | | ✅ | | ✅ | |
 
 ---
