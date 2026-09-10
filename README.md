@@ -58,7 +58,13 @@ My approach brings together **business objectives, structured project delivery, 
 
 ## 📌 Explore My Portfolio
 
-My GitHub profile provides an overview of my experience and technical capabilities. The repositories below provide deeper evidence of my work.
+My portfolio brings together my **professional profile, real-world technology projects, project management experience, certifications, and Shopify work**.
+
+### 🌐 Official Website
+
+Visit my **official portfolio website** for a concise overview of my experience, capabilities, selected projects, and professional background.
+
+👉 **[Visit My Official Portfolio →](https://christopher-tpm-portfolio.pages.dev/)**
 
 ### 📂 Project Portfolio
 
@@ -72,9 +78,15 @@ Explore my **project management experience and delivery artifacts**, including p
 
 👉 **[View Project Manager Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/project-manager)**
 
+### 🛍️ Shopify Portfolio
+
+Explore my **Shopify development and technical consulting work**, including e-commerce solutions, customizations, integrations, automation, and third-party platform connectivity.
+
+👉 **[View Shopify Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Shopify)**
+
 ### 🎓 Certifications
 
-Explore my **professional certifications, training, and continuing professional development** across project management, technology, cloud, data, and related areas.
+Explore my **professional certifications, technical training, and continuing professional development** across project management, technology, cloud, data, and related areas.
 
 👉 **[View Certifications →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Certifications)**
 
