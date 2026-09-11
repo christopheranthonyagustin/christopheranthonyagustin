@@ -82,7 +82,7 @@ Explore my **project management experience and delivery artifacts**, including p
 
 Explore my **Shopify development and technical consulting work**, including e-commerce solutions, customizations, integrations, automation, and third-party platform connectivity.
 
-👉 **[View Shopify Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Shopify)**
+👉 **[View Shopify Portfolio →](https://github.com/christopheranthonyagustin/portfolio/tree/main/Projects/Shopify)**
 
 ### 🎓 Certifications
 
